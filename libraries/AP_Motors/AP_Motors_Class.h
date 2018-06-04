@@ -52,6 +52,7 @@ public:
         MOTOR_FRAME_TYPE_H = 3,
         MOTOR_FRAME_TYPE_VTAIL = 4,
         MOTOR_FRAME_TYPE_ATAIL = 5,
+        MOTOR_FRAME_TYPE_T6 = 6,    //added 6/4/2018 by Zach Cowan; new frame type for T6 vehicle
         MOTOR_FRAME_TYPE_Y6B = 10,
         MOTOR_FRAME_TYPE_Y6F = 11 // for FireFlyY6
     };
